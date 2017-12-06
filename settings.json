@@ -1,0 +1,8 @@
+{
+    "initial_run": true,
+    "gis_db": "H:/neicdata/gisdata/edit/icdb_gis_neic-Stacey.mdb",
+    "icdb_backend": "H:\\neicdata\\database\\main\\icdb_backend_neic_test.accdb",
+    "BLM_proxy_db": "H:/BLM Applegate FO/Tools/ContractorPkgFull_v102_103/CulturalDB4Full_Test.gdb",
+    "project_boundaries": "H:/GIS Specialist/Spatial Data/ProjectInformation.gdb/BLM/BLM_Test_Boundaries",
+    "mxd": "H:/mxds/neic-gis-edits-KyleD.mxd"
+}

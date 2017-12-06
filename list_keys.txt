@@ -1,0 +1,25 @@
+tblResource Guide:
+	[0] : Trinomial Number
+	[1] : Trinomial H Status
+	[2 - 7] : Resource Type Checkboxes
+		[2] : Building
+		[3] : Structure
+		[4] : Object
+		[5] : Site
+		[6] : District
+		[7] : Other
+	[8] : Resource Type - Element of District
+	[9] : ResourceCollections
+	[10-13] : Age Classifications
+
+tblInventory Guide:
+    [0] : Publisher/Survey Org
+    [1] : Title
+    [2] : Month
+    [3] : Year
+
+tblInventoryAuthor Example:
+[(u'Jermann, Jerry V.',), (u'James H. Cleland',)]
+
+tbl:InventoryType Example:
+[(u'Archaeological',), (u'Field study',)]
